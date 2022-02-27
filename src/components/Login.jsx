@@ -1,5 +1,5 @@
 import React from 'react';
-import HeaderImage from '../assets/hwallpaper.png'
+// import HeaderImage from '../assets/hwallpaper.pn'
 
 const Login = () => {
   return (
